@@ -1,0 +1,2 @@
+# Palantir
+made for learning
